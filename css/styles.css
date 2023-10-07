@@ -299,7 +299,7 @@ button[type="submit"]:hover {
 .star {
     width: 16px;
     height: 16px;
-    background-image: url(/images/star.png);
+    background-image: url(images/star.png);
     background-size: cover;
 
 }
